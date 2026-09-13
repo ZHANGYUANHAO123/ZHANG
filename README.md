@@ -1,6 +1,26 @@
-# Math Modeling Paper Writing Skill
+# CUMCM 数学建模 Skills
 
-面向数学建模竞赛论文的写作与终稿审校 Skill，覆盖摘要、问题分析、分问题求解、标题、公式、结果展示、图表说明和机械化表达清理。
+本仓库提供面向数学建模竞赛的可复用 Codex Skills。
+
+## 数模竞赛画图手
+
+`math-modeling-figure-maker` 用于选择、绘制、重排和审校数学建模论文的数据图、多面板图、总体建模流程图与分问算法流程图，重点解决字号过小、图例遮挡、文字重叠、布局错位、配色语义漂移和图表—代码—结果不一致。
+
+安装地址：
+
+```text
+https://github.com/ZHANGYUANHAO123/ZHANG/tree/main/math-modeling-figure-maker
+```
+
+显式调用：
+
+```text
+$math-modeling-figure-maker
+```
+
+## 数学建模论文写作
+
+`math-modeling-paper-writing` 面向数学建模竞赛论文的写作与终稿审校，覆盖摘要、问题分析、分问题求解、标题、公式、结果展示、图表说明和机械化表达清理。
 
 本 Skill 通过补足“题目—模型—代码—图表—结论”证据链提高论文质量，不用于规避检测，也不允许虚构数据、参数、程序输出或参考文献。
 

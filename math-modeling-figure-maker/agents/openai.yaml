@@ -1,0 +1,5 @@
+interface:
+  display_name: "数模竞赛画图手"
+  short_description: "为数学建模竞赛选择、绘制、排版并校验论文图表与流程图"
+  brand_color: "#315C4B"
+  default_prompt: "Use $math-modeling-figure-maker to design and audit the figures and flowcharts for my mathematical modeling paper."
